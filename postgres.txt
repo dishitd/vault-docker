@@ -1,0 +1,5 @@
+{ 
+  "url": "jdbc:postgresql://localhost:5432/local?currentSchema=pms", 
+  "username": "localUser", 
+  "password": "localUser" 
+} 
