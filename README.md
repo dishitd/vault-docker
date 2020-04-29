@@ -1,4 +1,7 @@
 # Vault Docker
+## Solution Design
+![solution-design](https://github.com/dishitd/vault-docker/blob/master/solution-design/jwtWithVault.png)
+
 ## Get quickly up and running with Vault using Docker
 
 The following steps need to be followed to get going.
